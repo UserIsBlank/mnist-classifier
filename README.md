@@ -9,3 +9,5 @@ Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 > To run this project, you will need Python and the following libraries:
 > * PyTorch
 > * matplotlib
+## Screenshots
+> ![Sample Classification Results](images/mnist-results.png)
