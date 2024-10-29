@@ -5,4 +5,6 @@ Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 ## Introduction
  > The MNIST dataset is a widely used benchmark in machine learning, particularly for handwritten digit recognition. This project trains a neural network to classify digits from this dataset with 
  > high accuracy. The notebook contains steps for loading the data, preprocessing, model training, and evaluation.
-
+## Installation Dependencies
+ > To run this project, you will need Python and the following libraries:
+ > TensorFlow / PyTorch, numpy, matplotlib, jupyter
