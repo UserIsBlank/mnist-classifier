@@ -10,4 +10,4 @@ Authors: \<[Joshua Ha](https://github.com/UserIsBlank)\>
 > * PyTorch
 > * matplotlib
 ## Screenshots
-> !(images/mnist-results.png)
+> ![](images/mnist-results.png)
